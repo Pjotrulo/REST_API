@@ -1,7 +1,5 @@
 #![feature(proc_macro_hygiene, decl_macro)]
 
-// https://rocket.rs/v0.5-rc/guide/requests/
-
 use rocket::*;
 use rand::Rng;
 
